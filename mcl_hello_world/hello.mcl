@@ -1,0 +1,4 @@
+main
+    puts 0,["Hello, world!", 13]
+    pause 1000
+    goto main
